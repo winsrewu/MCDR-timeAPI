@@ -13,7 +13,7 @@ TimeApi
 !!time info 获取时间戳
 
 # 请求Api返回格式
-默认的端口是38899（可以在Config文件处修改，默认路径config/time_api/config.json）
+默认的端口是38899（可以在Config文件处修改，默认路径config/time_api/config.json）\n
 返回的是一串Json，就像这个：
 {"day":43,"daytime":18409,"realTime":"2022-10-02 23:34:31"}
 day：当前天数；daytime：当前一天的第几个gt；realTime：之前两个时间所对应的现实时间（是服务器所在的计算机时间哦）
