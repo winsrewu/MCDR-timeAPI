@@ -47,3 +47,5 @@ werkzeug
 5.记得开防火墙
 
 6.cloudflare tunnel的不错，可以拿来当这个的内网穿透
+
+7.README里没提到的就去看源码罢（悲
