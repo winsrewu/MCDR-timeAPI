@@ -7,13 +7,13 @@ TimeApi
 # 指令说明
 这些指令默认只适用于Helper权限及以上！
 
-!!time 获取帮助文档
+!!Time 获取帮助文档
 
-!!time reget 重新获得时间戳
+!!Time reget 重新获得时间戳
 
-!!time startServer 重新启动WebServer
+!!Time startServer 重新启动WebServer
 
-!!time info 获取时间戳
+!!Time info 获取时间戳
 
 # 请求Api返回格式
 默认的端口是38899（可以在Config文件处修改，默认路径config/time_api/config.json）
